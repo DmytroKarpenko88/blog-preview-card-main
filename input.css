@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-figtree: 'Figtree', sans-serif;
+  --color-yellow: #f4d04e;
+  --color-gray-950: #111111;
+  --color-gray-500: #6b6b6b;
+
+  --radius-card-radius: 20px;
+  --radius-img-radius: 10px;
+
+  --text-base: 16px;
+  --text-lg: 24px;
+
+  --leading-150: 1.5;
+
+  --spacing-300: 24px;
+  --spacing-150: 12px;
+  --spacing-100: 8px;
+  --spacing-50: 4px;
+
+  --shadow-card-shadow: 8px 8px 0 0 #000;
+
+  --breakpoint-xs: 375px;
+  --breakpoint-xl: 1440px;
+}
